@@ -3,14 +3,14 @@ This is the updated version of EDXW (Sylt / Westerland) created in 2020 with sev
 made in 2013. He gave me the permission to publish my modified version of his scenery. The scenery was especially made for online flying on networks like VATSIM.
 The modified version adds the following things to the scenery:
 
-+ **Apron 4 - where the Marinefliegerlehrgruppe is based - added.**
-+ **Scenery Night compatible. All aprons and taxiways got lit up with many lights.**
-+ Many static aircrafts were removed and replaced with startup points to offer more stands to online pilots.
-+ Taxiways M and P at GAT were added.
-+ Taxisigns were updated and new ones were added to improve ease of use.
-+ Runway closed markings were made red to improve visibility.
-+ Grass and scratches were added to inactive parts of the airport to indicate non-operational parts.
-+ Many estethic changes and details were added.
+* **Apron 4 - where the Marinefliegerlehrgruppe is based - added.**
+* **Scenery Night compatible. All aprons and taxiways got lit up with many lights.**
+* Many static aircrafts were removed and replaced with startup points to offer more stands to online pilots.
+* Taxiways M and P at GAT were added.
+* Taxisigns were updated and new ones were added to improve ease of use.
+* Runway closed markings were made red to improve visibility.
+* Grass and scratches were added to inactive parts of the airport to indicate non-operational parts.
+* Many estethic changes and details were added.
 ..* Fence textures were changed to a more modern fence.
 ..* Small details such as chocks, cones and barriers were added to stands.
 
