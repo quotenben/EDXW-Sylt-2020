@@ -143,7 +143,9 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection/>
+      <selection>
+        <sel id="882"/>
+      </selection>
     </object>
     <object class="WED_ObjPlacement" id="3517" parent_id="2211">
       <children/>
@@ -1224,7 +1226,7 @@
     <object class="WED_AirportNode" id="36" parent_id="23">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="54.910845640" longitude="8.326921150" split="1" ctrl_latitude_lo="0.000059830" ctrl_longitude_lo="-0.000196910" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="54.910841600" longitude="8.326913243" split="1" ctrl_latitude_lo="0.000059830" ctrl_longitude_lo="-0.000196910" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings>
         <marking value="Taxiway Edge Lights (Blue)"/>
       </markings>
@@ -9984,7 +9986,7 @@
     <object class="WED_AirportNode" id="882" parent_id="872">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="54.911071410" longitude="8.326384830" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="54.911082863" longitude="8.326401979" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
     <object class="WED_AirportChain" id="884" parent_id="883">
@@ -18269,7 +18271,7 @@
     <object class="WED_AirportNode" id="2557" parent_id="2555">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="54.911069014" longitude="8.326381373" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="54.911068579" longitude="8.326381373" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings>
         <marking value="Solid White (Roadway)"/>
       </markings>
@@ -23812,17 +23814,17 @@
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/use_feet" value="0"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="8.331137"/>
+    <pref name="map/east" value="8.327553"/>
     <pref name="map/navaid_map_vis" value="0"/>
-    <pref name="map/north" value="54.914567"/>
+    <pref name="map/north" value="54.911509"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="4"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="0"/>
-    <pref name="map/south" value="54.914383"/>
+    <pref name="map/south" value="54.910369"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="8.330806"/>
+    <pref name="map/west" value="8.325502"/>
     <pref name="map/world_map_vis" value="1"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>

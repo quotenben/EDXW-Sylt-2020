@@ -1,5 +1,6 @@
-# EDXW-Sylt-2020
-This is the updated version of EDXW (Sylt / Westerland) created in 2020 with several fixes and updated taxiways. The scenery is based on the [EDXW scenery by bosun](https://forums.x-plane.org/index.php?/files/file/18974-edxw-sylt-airport/ )
+![alt text](https://i.imgur.com/d1DqCnF.png "EDXW - Sylt / Westerland 2020")
+
+This is the updated version of EDXW (Sylt / Westerland) created in 2020 with several fixes and updated taxiways. The scenery is based on the [EDXW scenery by bosun](https://forums.x-plane.org/index.php?/files/file/18974-edxw-sylt-airport/)
 made in 2013. He gave me the permission to publish my modified version of his scenery. The scenery was especially made for online flying on networks like VATSIM.
 The modified version adds the following things to the scenery:
 
